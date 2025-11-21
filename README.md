@@ -27,7 +27,7 @@
 
 ### What I’m focusing on right now
 - **Rebuilding my foundations with intention** — depth, discipline, and long-term mastery
-- **System Design fundamentals**
+- **System design fundamentals**
 - **Building polished full-stack applications end-to-end**
 
 ---
