@@ -3,16 +3,15 @@
 
 ---
 
-### 🚀 About Me
-- 🎯 Passionate about **systems, web technologies, performance-oriented engineering, and everything automation**
-- 🛠 Currently building things with **Node + TypeScript** and **C++**
-- 📚 I love writing bash scripts and exploring new **GNU utils**
-- 🤝 Always eager to support open source — whether it's improving docs, fixing bugs, or contributing features
-- 🐧 Proud **GNU/Linux enthusiast** — love tinkering with distros, tooling, and the UNIX philosophy
+### About Me
+- Passionate about **systems, web technologies, performance-oriented engineering, and automation**
+- I enjoy working with **GNU/Linux** — always trying to improve one script and one config at a time
+- Always eager to support open source — whether it's improving docs, fixing bugs, or contributing features
+- Firm believer in the **power of compounding** — skills, habits, and hope grow when nurtured consistently
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="55" alt="JavaScript" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="55" alt="TypeScript" />
@@ -26,15 +25,15 @@
 
 ---
 
-### 🌱 What I’m focusing on right now
-- 🔹 **System Design fundamentals**
-- 🔹 **Building polished full-stack apps end-to-end**
-- 🔹 **Data Structures & Algorithms**
+### What I’m focusing on right now
+- **Rebuilding my foundations with intention** — depth, discipline, and long-term mastery
+- **System Design fundamentals**
+- **Building polished full-stack applications end-to-end**
 
 ---
 
-### 📫 Connect With Me
-If you like collaborating on **open-source, systems, algorithm design, or backend engineering**,  
+### Connect With Me
+If you enjoy collaborating on **open-source, systems programming, backend engineering, or algorithmic problem solving**, feel free to reach out.
 
 <p align="center">
   <a href="mailto:dhruvgirishnayak@gmail.com">
@@ -50,4 +49,4 @@ If you like collaborating on **open-source, systems, algorithm design, or backen
 
 ---
 
-⭐ **If my repos help you, consider dropping a star — it genuinely keeps me motivated to build more!**
+✨ **If my repositories help you, a star is always appreciated — it keeps me motivated to build and share more.** 😀
