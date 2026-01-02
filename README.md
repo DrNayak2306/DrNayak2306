@@ -21,6 +21,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="35" alt="CSS3" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="35" alt="C++" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" width="45" alt="Bash" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?20250701090410" width="35" alt="Python" />
 </p>
 
 ---
