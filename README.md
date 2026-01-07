@@ -38,7 +38,7 @@
 If you enjoy collaborating on **open-source, systems programming, backend engineering, or algorithmic problem solving**, feel free to reach out.
 
 <p align="center">
-  <a href="mailto:dhruvgirishnayak@gmail.com">
+  <a href="mailto:dhruvgnk.work@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://leetcode.com/u/Dhruv_Nayak_007/">
