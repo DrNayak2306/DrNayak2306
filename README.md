@@ -44,7 +44,7 @@ If you enjoy collaborating on **open-source, systems programming, backend engine
   <a href="https://leetcode.com/u/Dhruv_Nayak_007/">
     <img src="https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/dhruv-nayak-6802b427a/">
+  <a href="https://www.linkedin.com/in/dhruv-girish-nayak">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
