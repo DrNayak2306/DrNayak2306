@@ -13,7 +13,7 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="35" alt="C++" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/250px-Rust_programming_language_black_logo.svg.png" width="35" alt="Rust" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?20250701090410" width="35" alt="Python" />
 </p>
 <p align="center">
@@ -23,7 +23,6 @@
 </p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="35" alt="TypeScript" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="55" alt="Node.js" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="35" alt="React" />
 </p>
 
