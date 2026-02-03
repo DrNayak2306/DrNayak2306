@@ -13,17 +13,14 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/250px-Rust_programming_language_black_logo.svg.png" width="35" alt="Rust" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/120px-Python-logo-notext.svg.png?20250701090410" width="35" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="35" alt="C" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/250px-Rust_programming_language_black_logo.svg.png" width="35" alt="Rust" />
 </p>
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" width="35" alt="HTML5" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" width="35" alt="CSS3" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="35" alt="JavaScript" />
-</p>
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="35" alt="TypeScript" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="35" alt="React" />
 </p>
 
 ---
