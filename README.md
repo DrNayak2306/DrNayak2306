@@ -1,5 +1,4 @@
-<h1 align="center">Hey there! I'm Dhruv 👋</h1>
-<h3 align="center">Web Development & Systems Engineering Enthusiast</h3>
+<h1 align="center">Hey there!</h1>
 
 ---
 
@@ -46,7 +45,3 @@ If you enjoy collaborating on **open-source, systems programming, backend engine
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
-
----
-
-✨ **If my repositories help you, a star is always appreciated — it keeps me motivated to build and share more.** 😀
